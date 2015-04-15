@@ -86,6 +86,7 @@ The following list will be updated as and when any issues arise.
 * Create template stylesheets for various transforms (Pages flying in from different perspectives, maybe !)
 * Explore child zed elements
 * Explore jQuery mobile - transition on touch
+* Explore keypress navigation
 
 ## Ideas
 
