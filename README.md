@@ -87,6 +87,7 @@ The following list will be updated as and when any issues arise.
 * Explore child zed elements
 * Explore jQuery mobile - transition on touch
 * Explore keypress navigation
+* Provide users with the functionality to switch off the fast moving visuals
 
 ## Ideas
 
