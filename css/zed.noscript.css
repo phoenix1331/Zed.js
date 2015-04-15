@@ -1,0 +1,62 @@
+/*zed.noscript.css*/
+
+html{
+    -webkit-font-smoothing: antialiased;
+}
+
+nav{
+	display:none;
+}
+
+.scrollMessage{
+	display:none;
+}
+
+/*Logo container */
+.zedScroll{
+	width:150px;
+	height:100px;
+	display:block;
+	float:left;
+	line-height:100px;
+}
+
+.zedScroll:hover{
+	cursor:pointer;
+}
+
+.zedScroll p{
+	color:#555;
+	font-size:48px;
+}
+
+.zedScroll p:hover{
+	color:#5da7bc;
+}
+
+.wrap{
+	width:100%;
+	height:auto;
+	margin:0 0 200px 0; /* Clear header*/
+	padding:0;
+}
+
+.zed{
+	position:static;
+	padding:0 0 30px 0;
+	left:auto;
+	top:auto;
+	visibility:visible;
+	opacity:100;
+	/*Reset*/
+	-webkit-transform: translate3d( 0, 0, 0 );
+	   -moz-transform: translate3d( 0, 0, 0 );
+	    -ms-transform: translate3d( 0, 0, 0 );
+	     -o-transform: translate3d( 0, 0, 0 );
+	        transform: translate3d( 0, 0, 0 );	
+}
+
+.zed:first-child{
+	padding:100px 0 0 0;
+}
+
