@@ -2,7 +2,7 @@
  * jQuery lightweight plugin Zed.js
  * Original author: Darren Williams
  * Further changes, comments: @phoenix1331
- * Licensed under the MIT license
+ * Licensed under the Creative Commons Attribution 3.0 license
  */
 
 // the semi-colon before the function invocation is a safety 
